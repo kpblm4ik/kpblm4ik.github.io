@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /a51bfcts_wikipedia/editor.html
+Disallow: /a51bfcts_wikipedia/coil-editor.html
+Disallow: /a51bfcts_wikipedia/new-page.html
+Disallow: /a51bfcts_wikipedia/experimental.html
+Disallow: /a51bfcts_wikipedia/ecm-test.html
+Disallow: /a51bfcts_wikipedia/kit.html
+Disallow: /a51bfcts_wikipedia/tools/
+Disallow: /a51bfcts_wikipedia/data/
+Disallow: /a51bfcts_wikipedia/*.json$
+
+Sitemap: https://kpblm4ik.github.io/a51bfcts_wikipedia/sitemap.xml
